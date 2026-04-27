@@ -1,0 +1,25 @@
+All unique diseases in symptoms.ods:
+1. diabetes
+2. coronary arteriosclerosis^coronary heart disease
+3. pneumonia
+4. asthma
+5. anemia
+6. hypothyroidism
+7. acquired�immuno-deficiency syndrome^HIV^hiv infections
+8. dehydration
+9. obesity
+10. arthritis
+11. bronchitis
+12. pancreatitis
+13. ulcer peptic
+14. gastritis
+15. hepatitis
+16. influenza
+17. Tuberculosis
+18. Malaria
+19. Dengue
+20. Corona Virus
+21. conjunctivitis
+22. eye allergy
+
+Total: 22 diseases
